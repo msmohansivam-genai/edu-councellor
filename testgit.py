@@ -1,1 +1,4 @@
-print('Hi, this is a test script for the edu-counsellor project.')
+a = 10
+b = 20
+c = 30
+print('The result is', c)
