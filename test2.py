@@ -1,0 +1,1 @@
+print('Hello, it is for testing purpose')
