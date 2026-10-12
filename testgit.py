@@ -1,0 +1,1 @@
+print('Hi, this is a test script for the edu-counsellor project.')
